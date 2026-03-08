@@ -10,6 +10,7 @@ import TemplateExpression from './components/TemplateExpression'
 import MyComponent from './components/MyComponent'
 
 // 6 - Eventos
+import Events from './components/Events'
 
 function App() {
   // 3 - Comentários 
